@@ -1,2 +1,4 @@
 # 2doParcial
-El ejer 1 es el 3
+El ejer1 es el 3
+Ejercicios Presentados 1, 2, 3
+
